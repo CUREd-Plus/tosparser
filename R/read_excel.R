@@ -1,3 +1,5 @@
+library(readxl)
+
 #' Read an Excel workbook file.
 #'
 #' This function is a wrapper around readxl::read_excel.
